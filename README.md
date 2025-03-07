@@ -1,16 +1,10 @@
-# qrshare
+# QR Share 🚀  
+**Instant File Upload & QR Access**  
 
-A new Flutter project.
+QR Share is a lightweight Flutter app that uploads files to Firebase Storage and generates QR codes for easy sharing. Just scan and download—no complex links!  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ Features  
+✅ **Quick Uploads** – Select and upload files seamlessly.  
+✅ **Instant QR Generation** – No copy-pasting links, just scan!  
+✅ **One-Tap Save** – Store QR codes in your gallery.  
+✅ **Cross-Platform** – Works on Android, iOS, and Web.  
