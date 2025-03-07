@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332693437858",
+    "project_id": "qrshare-bd117",
+    "storage_bucket": "qrshare-bd117.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332693437858:android:39281c02ba4c9c1250c6fb",
+        "android_client_info": {
+          "package_name": "com.example.qrshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt1W2zvg238IvESJ5FMwxRYlVjNJYjK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
